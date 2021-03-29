@@ -11,7 +11,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
 
-    
+
     <groupId>org.mybook</groupId>
     <artifactId>mybook</artifactId>
     <packaging>pom</packaging>
